@@ -4,14 +4,14 @@
 
 ![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=)
 ![JUnit](https://img.shields.io/badge/-JUnit-003f5c?style=for-the-badge&logo=)
-![Git](https://img.shields.io/badge/-JUnit-003f5c?style=for-the-badge&logo=)
+![Git](https://img.shields.io/badge/-Git-003f5c?style=for-the-badge&logo=)
 ![Linux](https://img.shields.io/badge/-Linux-003f5c?style=for-the-badge&logo=)
 ![Gradle](https://img.shields.io/badge/-Gradle-003f5c?style=for-the-badge&logo=)
 ![Maven](https://img.shields.io/badge/-Maven-003f5c?style=for-the-badge&logo=)
 ![SQL](https://img.shields.io/badge/-SQL-003f5c?style=for-the-badge&logo=)
 
 
-Contact me:
+
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
 [![Email](https://img.shields.io/badge/-Email-003f5c?)](3672@mail.ru)
 
