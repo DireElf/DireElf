@@ -2,7 +2,7 @@
 - 🌱 Currently learning: Java via [Hexlet](https://hexlet.io)
 - 📫 How to contact me: Telegram: https://t.me/DireElf
 
-![Java](https://img.shields.io/badge/-Java-003f5c)
+![Java](https://img.shields.io/badge/-Java-191c26)
 
 Contact me:
 
