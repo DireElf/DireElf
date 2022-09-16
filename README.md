@@ -1,4 +1,4 @@
-- Hi! 👋 I’m Alexander Krasowsky, junior Java dev
+- Hi! 👋 I’m Alexander Krasowsky, Java dev
 - 🌱 Currently learning: Java via [Hexlet](https://hexlet.io)
 - 🎁 Make yourself at home, okay?
 
