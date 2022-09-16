@@ -1,4 +1,4 @@
-- 👋 Hi, stranger, I’m Alexander Krasowsky
+- Hi! 👋 I’m Alexander Krasowsky
 - 👀 I’m interested in conversation with people all around the world ^_^
 - 🌱 I’m currently learning Java via Hexlet
 - 📫 How to contact me: Telegram: https://t.me/DireElf || Email: 3672@mail.ru
