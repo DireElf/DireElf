@@ -3,14 +3,13 @@
 - 🎁 Make yourself at home, okay?
 
 
-![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=)
-![JUnit](https://img.shields.io/badge/-JUnit-003f5c?style=for-the-badge&logo=)
-![Git](https://img.shields.io/badge/-Git-003f5c?style=for-the-badge&logo=)
-![Linux](https://img.shields.io/badge/-Linux-003f5c?style=for-the-badge&logo=)
-![Gradle](https://img.shields.io/badge/-Gradle-003f5c?style=for-the-badge&logo=)
-![Maven](https://img.shields.io/badge/-Maven-003f5c?style=for-the-badge&logo=)
-![SQL](https://img.shields.io/badge/-SQL-003f5c?style=for-the-badge&logo=)
-
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
