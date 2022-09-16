@@ -1,5 +1,5 @@
 - Hi! 👋 I’m Alexander Krasowsky, Java dev
-- 🌱 Currently learning: Java via [Hexlet](https://hexlet.io)
+- 🌱 Currently learning Java via [Hexlet](https://hexlet.io) and Spanish by myself
 - 🎁 Make yourself at home ^_^
 
 
