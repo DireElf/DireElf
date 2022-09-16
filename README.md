@@ -20,6 +20,8 @@
 
 [![DireElf github stats](https://github-readme-stats.vercel.app/api?username=direelf&show_icons=true&theme=tokyonight)](https://github.com/DireElf?tab=repositories)
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=DireElf&label=Profile%20views&color=2bbc8a&style=flat" alt="DireElf"/></p>
+
 <!---
 DireElf/DireElf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
