@@ -1,6 +1,6 @@
 - Hi! 👋 I’m Alexander Krasowsky, Java dev
 - 🌱 Currently learning: Java via [Hexlet](https://hexlet.io)
-- 🎁 Make yourself at home, okay?
+- 🎁 Make yourself at home ^_^
 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Env-Linux-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
