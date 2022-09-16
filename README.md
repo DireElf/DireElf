@@ -1,6 +1,7 @@
 - Hi! 👋 I’m Alexander Krasowsky, junior Java dev
 - 🌱 Currently learning: Java via [Hexlet](https://hexlet.io)
-- 📫 How to contact me: Telegram: https://t.me/DireElf
+- 🎁 Make yourself at home, okay?
+
 
 ![Java](https://img.shields.io/badge/-Java-003f5c?style=for-the-badge&logo=)
 ![JUnit](https://img.shields.io/badge/-JUnit-003f5c?style=for-the-badge&logo=)
