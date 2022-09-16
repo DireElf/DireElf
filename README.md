@@ -14,7 +14,7 @@
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
-[![Email](https://img.shields.io/badge/-Email-003f5c?)](3672@mail.ru)
+[![Email](https://img.shields.io/badge/-3672@mail.ru-003f5c?)](mailto:3672@mail.ru)
 
 
 [![DireElf github stats](https://github-readme-stats.vercel.app/api?username=direelf&show_icons=true&theme=tokyonight)](https://github.com/DireElf?tab=repositories)
