@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Env-Linux-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 *****
-Contacts:
+**Write me**  
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
 [![Email](https://img.shields.io/badge/-3672@mail.ru-003f5c?)](mailto:3672@mail.ru)
 *****
