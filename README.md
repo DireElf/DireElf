@@ -13,13 +13,11 @@
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Env-Linux-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-
-
-
+*****
+Contacts:
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
 [![Email](https://img.shields.io/badge/-3672@mail.ru-003f5c?)](mailto:3672@mail.ru)
-
-
+*****
 [![DireElf github stats](https://github-readme-stats.vercel.app/api?username=direelf&show_icons=true&theme=tokyonight)](https://github.com/DireElf?tab=repositories)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=DireElf&label=Profile%20views&color=2bbc8a&style=flat" alt="DireElf"/></p>
