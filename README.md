@@ -1,7 +1,7 @@
 *****
 - Hi! 👋 I’m Alexander Krasowsky, Java dev
-- 🌱 Currently learning Java via [Hexlet](https://hexlet.io) and Spanish by myself
-- 🎁 Hola and make yourself at home ^_^
+- 🌱 Currently learning Java via [Hexlet](https://hexlet.io)
+- 🎁 Make yourself at home ^_^
 *****
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
