@@ -9,8 +9,8 @@
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/Tests-JUnit-informational?style=for-the-badge&logo=junit&logoColor=white)
 ![](https://img.shields.io/badge/Tests-TestNG-informational?style=for-the-badge&logo=junit&logoColor=white)
-![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 
 *****
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
