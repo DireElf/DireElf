@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Tests-JUnit-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tests-TestNG-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white)
 
 *****
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
