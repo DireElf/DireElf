@@ -2,10 +2,10 @@
 - Hi! 👋 I’m Alexander Krasowsky, Java QA Automation
 - 🎁 Make yourself at home!
 *****
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Gradle-informational?style=for-the-badge&logo=Gradle&logoColor=white)
+![](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=intellij-idea&style=for-the-badge)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tests-JUnit-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tests-TestNG-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
