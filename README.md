@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tests-JUnit-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tests-TestNG-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white)
 
 *****
