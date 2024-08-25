@@ -3,12 +3,12 @@
 - 🎁 Make yourself at home!
 *****
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=for-the-badge&logo=Gradle&logoColor=white)
-![](https://img.shields.io/badge/Tools-IntelliJ-informational?style=flat&logo=intellij-idea&style=for-the-badge)
-![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tests-JUnit-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tests-TestNG-informational?style=flat&logo=junit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Editor-Eclipse-informational?style=for-the-badge&logo=eclipse&logoColor=white)
+![](https://img.shields.io/badge/Tests-JUnit-informational?style=for-the-badge&logo=junit&logoColor=white)
+![](https://img.shields.io/badge/Tests-TestNG-informational?style=for-the-badge&logo=junit&logoColor=white)
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white)
 
