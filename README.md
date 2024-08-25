@@ -1,6 +1,6 @@
 *****
-- Hi! 👋 I’m Alexander Krasowsky, Java developer (thanks to [Hexlet](https://hexlet.io)!)  
-- 🎁 Make yourself at home ^_^
+- Hi! 👋 I’m Alexander Krasowsky, Java QA Automation
+- 🎁 Make yourself at home!
 *****
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=ApacheMaven&logoColor=white&color=2bbc8a)
