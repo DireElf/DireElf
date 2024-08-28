@@ -1,6 +1,8 @@
 *****
-- 👋 Hi there! Welcome to my GitHub! I'm a QA Java Automation professional passionate about crafting reliable and efficient testing solutions. 
-- Feel free to explore my repositories and reach out if you'd like to collaborate!
+👋 Hi there! Welcome to my GitHub!  
+
+I'm a QA Java Automation professional passionate about crafting reliable and efficient testing solutions  
+Feel free to explore my repositories and reach out if you'd like to collaborate!
 *****
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white)
