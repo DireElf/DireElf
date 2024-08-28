@@ -14,6 +14,7 @@
 ![](https://img.shields.io/badge/Test-TestNG-informational?style=for-the-badge&logo=junit&logoColor=white)
 ![](https://img.shields.io/badge/Test-RestAssured-informational?style=for-the-badge&logo=restassured&logoColor=white)
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/JPA-Hibernate-informational?style=for-the-badge&logo=hibernate&logoColor=white)
 
 *****
 [![Telegram](https://img.shields.io/badge/-Telegram-003f5c?)](https://t.me/DireElf)
