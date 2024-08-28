@@ -3,7 +3,7 @@
 - 🎁 Make yourself at home!
 *****
 ![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Maven-informational?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Gradle-informational?style=for-the-badge&logo=Gradle&logoColor=white)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white)
